@@ -1,0 +1,21 @@
+alternate: FlyDreamXM's Blog
+homeConfig:
+  gradient: true
+  randomBG: false
+  fixedCover: "/assets/cover.jpg"
+  coverConfig:
+    enableNextGradientCover: true
+modules:
+  player: false
+  fireworks: false
+  visibilityListener: false
+icon:
+  favicon: "/favicon.ico"
+menu:
+  archives: /archives/ || list-alt
+social:
+  github: https://github.com/FlyDreamXM || github || "#191717"
+footer:
+  since: 2025
+reward:
+  enable: false

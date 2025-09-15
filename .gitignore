@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+shokaxTemp/
+package_backup.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+.idea
