@@ -1,4 +1,6 @@
 alternate: FlyDreamXM's Blog
+experiments:
+  antiFakeWebsite: false
 homeConfig:
   gradient: true
   randomBG: false
